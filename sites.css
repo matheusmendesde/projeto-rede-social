@@ -1,0 +1,63 @@
+* {
+    padding: 0px;
+    margin: 0px;
+ }
+
+ ::-webkit-scrollbar {
+     width: 0px;
+     height: 0px;
+ }
+
+ body {
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ img {
+     width: 100vw;
+ }
+
+ a {
+     display: block;
+     text-align: center;
+     padding: 20px;
+     background-color: darkred;
+     color: white;
+     font-weight: bolder;
+     text-decoration: none;
+ }
+
+ a:hover {
+     background-color: red;
+ }
+
+ .twitter {
+    background-color: darkblue;
+}
+
+.twitter:hover {
+    background-color: blue;
+}
+
+.github {
+    background-color: darkgreen;
+}
+
+.github:hover {
+    background-color: green;
+}
+
+.instagram {
+    background-color: #994f93;
+}
+
+.instagram:hover {
+    background-color: #9b3f93;
+}
+
+.facebook {
+    background-color: rgb(73, 185, 223);
+}
+
+.facebook:hover {
+    background-color: blue;
+}
